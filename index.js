@@ -1,0 +1,1 @@
+// Homepagina component code (placeholder - zie eerdere content)
